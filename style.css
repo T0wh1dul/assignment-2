@@ -15,6 +15,9 @@ body {
 .icon-ham{
     display: none;
 }
+.icon-main{
+    display: none;
+}
 .nav-child1 {
     display: flex;
     align-items: center;
